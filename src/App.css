@@ -1,0 +1,11 @@
+.header , .launchList
+{
+  display: flex;
+  justify-content: center;
+  /* align-content: space-between; */
+}
+
+.filter{
+  display: flex;
+  justify-content: space-between;
+}
