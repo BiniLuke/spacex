@@ -1,5 +1,5 @@
 {
-  "homepage":"http://BiniLuke.github.io/spacex",
+  "homepage": "https://biniluke.github.io/spacex",
   "name": "project",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.2",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.82.0"
   },
   "scripts": {
     "start": "react-scripts start",
